@@ -1,2 +1,9 @@
 # Code-Quiz
-HW 4 
+
+# Description
+The project was designed to create a timed coding quiz with multiple choices. 
+
+# Screenshot
+![Alt text](./assets/images/coding-quiz.png)
+
+# Link
